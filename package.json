@@ -1,0 +1,11 @@
+{
+  "name": "sourcery",
+  "version": "0.0.1",  
+  "devDependencies": {
+    "codemirror": "5.28.0",
+    "raphael": "2.2.7"
+  },
+  "dependencies": {
+    "parinfer": "^3.11.0"
+  }
+}
